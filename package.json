@@ -1,0 +1,25 @@
+{
+  "name": "lirinodeapp",
+  "version": "1.0.0",
+  "description": "week 12 homework for The Coding Bootcamp",
+  "main": "keys.js",
+  "dependencies": {
+    "twitter": "^1.4.0",
+    "spotify": "^0.3.0",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcbreedl/liri-node-app.git"
+  },
+  "author": "Houston Breedlove",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcbreedl/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/hcbreedl/liri-node-app#readme"
+}
